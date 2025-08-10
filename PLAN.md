@@ -3,7 +3,7 @@
 ## NOTE
 I’m really grateful for this opportunity and excited to have made it to this stage. I’ve done my best to put this plan together with the information provided, and I’m more than happy to take on any feedback or suggestions to make it better. Working on this was a great learning experience, and I’d love the chance to join 2Cents Capital, keep learning, grow alongside the team, and contribute in a meaningful way.
 
----
+***
 
 ## Overview
 
@@ -253,4 +253,5 @@ Structured using Pydantic for validation:
 ## 💫 Conclusion
 
 This plan outlines a robust, scalable, and efficient system for ADGM document compliance checking. The modular architecture allows for easy maintenance and future enhancements while maintaining high performance and accuracy standards.
+
 
