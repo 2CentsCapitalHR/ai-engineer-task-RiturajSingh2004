@@ -125,20 +125,20 @@ Once running, access:
 Test the API using the included CLI client:
 
 ```bash
-# Upload and analyze document (full workflow)
-python cli_client.py --file "memorandum.docx"
-
-# Check system status
-python cli_client.py --system
-
-# Check document status
-python cli_client.py --status "document_id"
-
-# Get analysis results
-python cli_client.py --analyze "document_id"
-
-# Download reviewed document
+# Document Analysis
+python cli_client.py --file "memorandum.docx"              # Upload and analyze
+python cli_client.py --status "document_id"                # Check status
+python cli_client.py --analyze "document_id"               # Get results
+python cli_client.py --report "document_id"                # Get detailed report
 python cli_client.py --download "document_id" --output "reviewed_doc.docx"
+
+# Knowledge Base Operations
+python cli_client.py --kb-query "company name requirements"  # Query knowledge base
+python cli_client.py --kb-stats                             # Show KB statistics
+python cli_client.py --kb-refresh                           # Refresh knowledge base
+
+# System Operations
+python cli_client.py --system                               # Check system status
 ```
 
 ## 📊 Example Usage
