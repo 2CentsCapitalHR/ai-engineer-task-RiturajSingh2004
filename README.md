@@ -1,4 +1,11 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vgbm4cZ0)
+
+---
+## NOTE
+I’m really grateful for this opportunity and excited to have made it to this stage. I’ve done my best to put this plan together with the information provided, and I’m more than happy to take on any feedback or suggestions to make it better. Working on this was a great learning experience, and I’d love the chance to join 2Cents Capital, keep learning, grow alongside the team, and contribute in a meaningful way.
+
+---
+
 # ADGM Corporate Agent
 
 An AI-powered legal assistant for Abu Dhabi Global Market (ADGM) document compliance review and validation.
